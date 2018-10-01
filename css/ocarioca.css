@@ -1,0 +1,71 @@
+
+
+
+.bg-primary{
+
+ background-color:#fff!important;
+
+}
+
+.btn-primary{
+
+ background-color:#1B9CFC!important;
+
+}
+
+
+.ocariocah1nome{
+
+
+    font-family: 'Satisfy', cursive!important;
+
+
+
+}
+
+.ocariocapstisfy{
+
+
+
+    font-family: 'Lato', sans-serif!important;
+    font-size: 16px!important;
+
+
+
+}
+
+
+.text-primary{
+
+color:#1B9CFC!important;
+
+
+}
+
+section{
+
+padding: 25px!important
+
+
+}
+
+.fa-4x{
+
+ font-size: 32px!important;
+
+}
+
+
+hr{
+
+display: none!important;
+
+}
+
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover{
+
+
+ background-color: #333!important;
+
+}
